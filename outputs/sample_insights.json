@@ -1,0 +1,102 @@
+[
+  {
+    "review_id": "T01",
+    "sentiment": "positive",
+    "need": "降噪",
+    "pain_point": "none",
+    "scenario": "通勤",
+    "purchase_barrier": "无",
+    "evidence": "通勤时降噪很安静",
+    "confidence": "high"
+  },
+  {
+    "review_id": "T02",
+    "sentiment": "negative",
+    "need": "通话",
+    "pain_point": "断连",
+    "scenario": "通话",
+    "purchase_barrier": "unknown",
+    "evidence": "连接总是断连",
+    "confidence": "high"
+  },
+  {
+    "review_id": "T03",
+    "sentiment": "positive",
+    "need": "音质",
+    "pain_point": "none",
+    "scenario": "unknown",
+    "purchase_barrier": "无",
+    "evidence": "音质不错",
+    "confidence": "high"
+  },
+  {
+    "review_id": "T04",
+    "sentiment": "negative",
+    "need": "unknown",
+    "pain_point": "unknown",
+    "scenario": "unknown",
+    "purchase_barrier": "功能不足",
+    "evidence": "没有明显问题",
+    "confidence": "high"
+  },
+  {
+    "review_id": "T05",
+    "sentiment": "unknown",
+    "need": "unknown",
+    "pain_point": "unknown",
+    "scenario": "unknown",
+    "purchase_barrier": "unknown",
+    "evidence": "unknown",
+    "confidence": "low"
+  },
+  {
+    "review_id": "T06",
+    "sentiment": "neutral",
+    "need": "unknown",
+    "pain_point": "none",
+    "scenario": "unknown",
+    "purchase_barrier": "无",
+    "evidence": "评分4分，文字没有更多描",
+    "confidence": "medium"
+  },
+  {
+    "review_id": "T07",
+    "sentiment": "positive",
+    "need": "音质",
+    "pain_point": "none",
+    "scenario": "unknown",
+    "purchase_barrier": "无",
+    "evidence": "这音质真是“好”到我想关掉",
+    "confidence": "high"
+  },
+  {
+    "review_id": "T08",
+    "sentiment": "positive",
+    "need": "通话",
+    "pain_point": "none",
+    "scenario": "旅行",
+    "purchase_barrier": "无",
+    "evidence": "打电话也清晰",
+    "confidence": "high"
+  },
+  {
+    "review_id": "T09",
+    "sentiment": "negative",
+    "need": "性价比",
+    "pain_point": "价格偏高",
+    "scenario": "unknown",
+    "purchase_barrier": "价格",
+    "evidence": "价格太贵",
+    "confidence": "high"
+  },
+  {
+    "review_id": "T10",
+    "sentiment": "positive",
+    "need": "外观",
+    "pain_point": "none",
+    "scenario": "unknown",
+    "purchase_barrier": "无",
+    "evidence": "外观好看",
+    "confidence": "high"
+  }
+]

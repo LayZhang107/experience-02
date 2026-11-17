@@ -1,0 +1,11 @@
+review_id,brand,product,review_text,review_date,rating
+T01,QuietWave,Q1,通勤时降噪很安静，佩戴舒服。,2026-10-01,5
+T02,SonicLeaf,S2,连接总是断连，通话也听不清。,2026/10/02,2
+T03,AeroTune,A3,音质不错，但是价格有点贵。,2026-10-03,4
+T04,NebuSound,N4,还行，没有明显问题。,2026-10-04,3
+T05,QuietWave,Q1,,,
+T06,SonicLeaf,S2,评分4分，文字没有更多描述,2026-10-06,4
+T07,AeroTune,A3,这音质真是“好”到我想关掉。,2026-10-07,2
+T08,NebuSound,N4,旅行时佩戴轻便，打电话也清晰。,2026-10-08,5
+T09,QuietWave,Q1,价格太贵，我担心售后。,2026-10-09,2
+T10,SonicLeaf,S2,外观好看，暂时没发现痛点。,2026-10-10,4
